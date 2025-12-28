@@ -1,4 +1,4 @@
- # 💫 About Me:
+ # 💫 Hey It's Me ANSHIKA:
  <br>👋 Hi, I’m Anshika Pal<br><br>I’m a BCA student with a strong interest in programming, problem-solving, and building practical tech solutions.<br><br>Currently, I’m focused on strengthening my core computer science fundamentals, improving my coding logic, and working on meaningful projects that add real value.<br><br>
 
 
